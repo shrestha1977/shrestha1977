@@ -2,8 +2,9 @@
 <h3 align="center">🚀 Passionate Computer Science Engineering Student </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Welcome+to+my+GitHub+Profile!;I+love+to+build+cool+projects+💻;Exploring+AI+%26+Web+Development;GATE+2026+Aspirant+🧠;Let's+create+something+amazing+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!;I+love+to+build+cool+projects+💻;Exploring+AI+and+Web+Development;GATE+2026+Aspirant+🧠;Let's+create+something+amazing+🚀" alt="Typing SVG" />
 </p>
+
 
 
 ---
