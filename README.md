@@ -50,21 +50,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrestha1977&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shrestha1977&theme=radical&no-frame=true&column=7&margin-w=10" />
-</p>
-
----
 
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrestha1977&theme=github-compact&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrestha1977&theme=github-compact&area=true" alt="Contribution Graph" />
 </p>
-
----
 
 
 <p align="center">
