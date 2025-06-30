@@ -7,6 +7,10 @@
 
 ---
 
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shrestha-mallick-57a259258/)
+
 ## 👨‍🎓 About Me
 
 - 🎓 I'm currently pursuing **B.Tech in Computer Science & Engineering**
