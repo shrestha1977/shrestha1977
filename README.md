@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrestha Mallick</h1>
-<h3 align="center">🚀 Passionate Computer Science Student </h3>
+<h3 align="center">🚀 Passionate Computer Science Engineering Student </h3>
 
 <p align="center">
   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fhand-written-vector-hello-text-cute-simple-hello-lettering-typography-hand-lettering-calligraphy-greeting-sign-vector-lettering-design-word-art%2F262556959&psig=AOvVaw1oOucNgz55i3gn5Iju39qm&ust=1751376135533000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDIqNaemY4DFQAAAAAdAAAAABAE" />
